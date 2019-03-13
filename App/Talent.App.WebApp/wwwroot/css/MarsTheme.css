@@ -1457,7 +1457,16 @@ div.ReactTags__selected a.ReactTags__remove {
     overflow-y: scroll;
 }
 
-.ui.dropdown.manage-jobs{
+.ui.dropdown.manage-jobs {
     margin-bottom: 10px;
+}
+
+.job-card-content {
+    height:300px;
+}
+
+.ui.grid.job-pagination{
+    margin-top:30px;
+    margin-bottom:30px;
 }
 /*Manage jobs - End*/
